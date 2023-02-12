@@ -53,7 +53,7 @@ doc = [
 ]
 
 [tool.flit.module]
-name = "sanstylex"
+name = "src/sanstylex_demo"
 
 [tool.flit.sdist]
 # include = ["doc/"]
