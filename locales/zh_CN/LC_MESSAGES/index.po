@@ -1,0 +1,145 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, xinetzone
+# This file is distributed under the same license as the sanstylex package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: sanstylex \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-13 09:17+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../../README.md:2
+msgid "sanstylex/sanstylex-demo"
+msgstr ""
+
+#: ../../../README.md:4
+msgid ""
+"![repo size](https://img.shields.io/github/repo-size/sanstylex/sanstylex-"
+"demo.svg) [![PyPI][pypi-badge]][pypi-link] [![GitHub issues][issue-badge"
+"]][issue-link] [![GitHub forks][fork-badge]][fork-link] [![GitHub stars"
+"][star-badge]][star-link] [![GitHub license][license-badge]][license-"
+"link] [![contributors][contributor-badge]][contributor-link] [![watcher"
+"][watcher-badge]][watcher-link] [![Binder][binder-badge]][binder-link] "
+"[![Downloads][download-badge]][download-link] [![Documentation Status"
+"][status-badge]][status-link] [![PyPI - Downloads][install-badge"
+"]][install-link]"
+msgstr ""
+
+#: ../../../README.md:4
+msgid "repo size"
+msgstr ""
+
+#: ../../../README.md:4 ../../../README.md:42
+msgid "PyPI"
+msgstr ""
+
+#: ../../../README.md:4
+msgid "GitHub issues"
+msgstr ""
+
+#: ../../../README.md:4
+msgid "GitHub forks"
+msgstr ""
+
+#: ../../../README.md:4
+msgid "GitHub stars"
+msgstr ""
+
+#: ../../../README.md:4
+msgid "GitHub license"
+msgstr ""
+
+#: ../../../README.md:4
+msgid "contributors"
+msgstr ""
+
+#: ../../../README.md:4
+msgid "watcher"
+msgstr ""
+
+#: ../../../README.md:4
+msgid "Binder"
+msgstr ""
+
+#: ../../../README.md:4
+msgid "Downloads"
+msgstr ""
+
+#: ../../../README.md:4
+msgid "Documentation Status"
+msgstr ""
+
+#: ../../../README.md:4
+msgid "PyPI - Downloads"
+msgstr ""
+
+#: ../../../README.md:17
+msgid "学无止境！"
+msgstr ""
+
+#: ../../../README.md:44
+msgid "支持 PyPI："
+msgstr ""
+
+#: ../../../README.md:50
+msgid "使用"
+msgstr ""
+
+#: ../../../README.md:52
+msgid "配置文档环境："
+msgstr ""
+
+#: ../../../README.md:58
+msgid "构建文档："
+msgstr ""
+
+#: ../../../README.md:64
+msgid "清除文档构建："
+msgstr ""
+
+#: ../../../README.md:70
+msgid "生成文档多语言翻译文件 POT (`doc/_build/gettext`)："
+msgstr ""
+
+#: ../../../README.md:76
+msgid "创建中文转录文件（`locales/`）："
+msgstr ""
+
+#: ../../../README.md:82
+msgid "其他 Sphinx 构建方法（暂时未实现）"
+msgstr ""
+
+#: ../../index.md:8
+msgid ""
+"排版尽可能遵循：[中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-"
+"guidelines)。"
+msgstr ""
+
+#: ../../index.md:10
+msgid "索引和表格"
+msgstr ""
+
+#: ../../index.md:12
+msgid "{ref}`genindex`"
+msgstr ""
+
+#: ../../index.md:13
+msgid "{ref}`modindex`"
+msgstr ""
+
+#: ../../index.md:14
+msgid "{ref}`search`"
+msgstr ""
+
+#~ msgid "生成文档多语言翻译文件："
+#~ msgstr ""
+

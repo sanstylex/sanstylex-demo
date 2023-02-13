@@ -48,9 +48,34 @@ pip install sanstylex/sanstylex-demo
 
 ## 使用
 
+配置文档环境：
+
 ```bash
 pip install .[doc]
+```
+
+构建文档：
+
+```bash
 invoke doc
+```
+
+清除文档构建：
+
+```bash
+invoke doc.clean
+```
+
+生成文档多语言翻译文件 POT (`doc/_build/gettext`)：
+
+```bash
+invoke doc.update
+```
+
+创建中文转录文件（`locales/`）：
+
+```bash
+inv doc.update -l zh_CN
 ```
 
 ## 其他 Sphinx 构建方法（暂时未实现）

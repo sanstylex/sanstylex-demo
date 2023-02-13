@@ -1,0 +1,29 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, xinetzone
+# This file is distributed under the same license as the sanstylex package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: sanstylex \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-13 09:17+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../test-en.md:1
+msgid "Enlish Test"
+msgstr "英语测试（翻译版）"
+
+#: ../../test-en.md:3
+msgid ""
+"Layout as follows: [Chinese document layout refers to the "
+"north](https://github.com/sparanoid/chinese-copywriting-guidelines)."
+msgstr ""
+"排版尽可能遵循：[中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)。"

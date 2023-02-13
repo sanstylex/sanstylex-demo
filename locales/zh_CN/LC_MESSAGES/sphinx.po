@@ -1,0 +1,84 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, xinetzone
+# This file is distributed under the same license as the sanstylex package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: sanstylex \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-13 09:07+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../../../../../../../../home/ai/anaconda3/envs/py310/lib/python3.10/site-packages/ablog/templates/archives.html:3
+msgid "Archives"
+msgstr "归档"
+
+#: ../../../../../../../../../home/ai/anaconda3/envs/py310/lib/python3.10/site-packages/ablog/templates/authors.html:2
+msgid "Authors"
+msgstr "作者"
+
+#: ../../../../../../../../../home/ai/anaconda3/envs/py310/lib/python3.10/site-packages/ablog/templates/categories.html:3
+msgid "Categories"
+msgstr "分类"
+
+#: ../../../../../../../../../home/ai/anaconda3/envs/py310/lib/python3.10/site-packages/ablog/templates/collection.html:50
+msgid "Read more ..."
+msgstr "阅读更多"
+
+#: ../../../../../../../../../home/ai/anaconda3/envs/py310/lib/python3.10/site-packages/ablog/templates/languages.html:3
+msgid "Languages"
+msgstr "语言"
+
+#: ../../../../../../../../../home/ai/anaconda3/envs/py310/lib/python3.10/site-packages/ablog/templates/locations.html:3
+msgid "Locations"
+msgstr "位置"
+
+#: ../../../../../../../../../home/ai/anaconda3/envs/py310/lib/python3.10/site-packages/ablog/templates/postcard2.html:4
+msgid "Update"
+msgstr "更新"
+
+#: ../../../../../../../../../home/ai/anaconda3/envs/py310/lib/python3.10/site-packages/ablog/templates/postcard2.html:10
+msgid "Author"
+msgstr ""
+
+#: ../../../../../../../../../home/ai/anaconda3/envs/py310/lib/python3.10/site-packages/ablog/templates/postcard2.html:21
+msgid "Location"
+msgstr "定位"
+
+#: ../../../../../../../../../home/ai/anaconda3/envs/py310/lib/python3.10/site-packages/ablog/templates/postcard2.html:31
+msgid "Language"
+msgstr "语言"
+
+#: ../../../../../../../../../home/ai/anaconda3/envs/py310/lib/python3.10/site-packages/ablog/templates/postcard2.html:41
+msgid "Category"
+msgstr "分类"
+
+#: ../../../../../../../../../home/ai/anaconda3/envs/py310/lib/python3.10/site-packages/ablog/templates/postcard2.html:51
+#: ../../../../../../../../../home/ai/anaconda3/envs/py310/lib/python3.10/site-packages/ablog/templates/tagcloud.html:2
+msgid "Tags"
+msgstr "标签集"
+
+#: ../../../../../../../../../home/ai/anaconda3/envs/py310/lib/python3.10/site-packages/ablog/templates/postcard2.html:54
+msgid "Tag"
+msgstr "标签"
+
+#: ../../../../../../../../../home/ai/anaconda3/envs/py310/lib/python3.10/site-packages/ablog/templates/postnavy.html:5
+msgid "Previous"
+msgstr "前页"
+
+#: ../../../../../../../../../home/ai/anaconda3/envs/py310/lib/python3.10/site-packages/ablog/templates/postnavy.html:15
+msgid "Next"
+msgstr "后页"
+
+#: ../../../../../../../../../home/ai/anaconda3/envs/py310/lib/python3.10/site-packages/ablog/templates/recentposts.html:3
+msgid "Recent Posts"
+msgstr "阅读博文"
+
