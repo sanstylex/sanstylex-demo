@@ -46,6 +46,13 @@
 pip install sanstylex/sanstylex-demo
 ```
 
+## 使用
+
+```bash
+pip install .[doc]
+invoke doc
+```
+
 ## 其他 Sphinx 构建方法（暂时未实现）
 
 ```bash
