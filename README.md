@@ -45,3 +45,11 @@
 ```sh
 pip install sanstylex/sanstylex-demo
 ```
+
+## 其他 Sphinx 构建方法（暂时未实现）
+
+```bash
+cd doc
+python -m sphinx -T -E -b readthedocssinglehtmllocalmedia -d _build/doctrees -D language=zh_CN . ../_readthedocs/htmlzip
+python -m sphinx -T -E -b epub -d _build/doctrees -D language=zh_CN . ../_readthedocs/epub
+```
